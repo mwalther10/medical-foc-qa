@@ -1,0 +1,7 @@
+langchain_mistralai
+pandas
+langchain_openai
+os
+dotenv
+langchain_community
+

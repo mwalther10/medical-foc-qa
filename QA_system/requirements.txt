@@ -1,0 +1,7 @@
+typing
+python-dotenv
+langchain-openai
+qdrant-client
+langchain-community
+langchain
+
