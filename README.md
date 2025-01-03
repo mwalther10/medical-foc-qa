@@ -35,3 +35,4 @@ Please include a motivation and description of your project. If you meet the lic
 | answer_published_at | answer publciation date and time (Unix time) | 1580056200000|
 
 ## Attribution
+The paper has been accepted at [BTW 2025](https://btw2025.gi.de/). Citation details will follow soon.
